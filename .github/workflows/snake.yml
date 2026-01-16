@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs daily
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,6 @@ jobs:
     steps:
       - name: Generate Snake
         uses: Platane/snk@master
-       with:
-       github_user_name: DATA-Meta 
-       output_path: ./output/snake.svg
-
+        with:
+          github_user_name: DATA-Meta
+          output_path: output/snake.svg
