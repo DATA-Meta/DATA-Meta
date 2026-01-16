@@ -79,6 +79,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DATA-Meta/DATA-Meta/output/snake.svg" alt="Snake animation" />
+---
+
+### 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/DATA-Meta/DATA-Meta/output/snake.svg)
+
+
 
 ###
