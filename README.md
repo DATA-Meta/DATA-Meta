@@ -2,7 +2,72 @@
 
 ###
 
-<p align="left">💻📊 I am studying MS Data Science from Germany 🇩🇪</p>
+<p align="left"># Muhammad Usman Khan
+
+MS Data Science student at Arden University, based in Berlin.  
+Focused on machine learning, exploratory data analysis, and Python development.  
+This profile documents both my academic work and my personal data science projects.
+
+---
+
+## Skills and Tools
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)]()
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=flat)]()
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)]()
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]()
+
+---
+
+## About Me
+
+I am passionate about understanding data and building practical solutions.  
+My repositories include university coursework, machine learning notebooks, data visualization work, and personal projects.  
+I enjoy learning new tools, improving my coding skills, and applying concepts to real datasets.
+
+---
+
+## Featured Repositories
+
+- MS_Data_Science_Arden_University – MSc coursework  
+- Python_datascience_2026 – Personal learning and practice  
+- Machine-learning – ML notebooks and experiments  
+- Data_visualisation_Arden – Data visualization module  
+- Portfolio-projects – Real-world data science projects  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DATA-Meta&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DATA-Meta&layout=compact&theme=default&hide_border=true)
+
+---
+
+## Currently Learning
+
+- Advanced machine learning  
+- End-to-end ML workflows  
+- Data visualization techniques  
+- Pandas and EDA through the Codanics mentorship program  
+
+---
+
+## Connect With Me
+
+Twitter: @data_holick  
+GitHub: DATA-Meta
+
+Thank you for visiting my profile. Feel free to explore my repositories and follow my progress in data science.
+
 
 ###
 
