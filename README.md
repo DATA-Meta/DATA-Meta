@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm MO!</h1>
+<h1 align="left">Hey 👋 I'm Muhammad usman Khan !</h1>
 
 <img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRycWM3bDFwODA4bXNoemFoa3h6ZGgza3ptc25rNjRuMHNxcnl6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPOp0rmUUEKfcvFckS/giphy.gif" />
 
