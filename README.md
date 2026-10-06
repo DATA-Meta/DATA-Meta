@@ -13,10 +13,10 @@
 
 ## About Me
 
-**Muhammad Usman Khan** — MS Data Science student at Arden University, based in Berlin.  
-Focused on machine learning, exploratory data analysis, and Python development.  
-I am passionate about understanding data and building practical solutions.  
-My repositories include university coursework, machine learning notebooks, data visualization work, and personal projects.
+**Muhammad Usman Khan** · Data Scientist & Data Analyst based in Berlin · 🌐 **[Portfolio: data-meta.github.io](https://data-meta.github.io)**
+
+I have about 9 years of analytics experience across Pakistan, the UK and Germany, and I'm now focused on **data science and machine learning**. I build end-to-end solutions: data pipelines with SQL and PySpark, **business intelligence** dashboards in Power BI and Tableau, and **ML and LLM applications**, from churn and price prediction to a production-style agentic RAG system.  
+Currently completing an MSc in Data Science at Arden University Berlin, with an MBA (Distinction) from Edinburgh Napier University.
 
 ---
 
@@ -27,6 +27,12 @@ My repositories include university coursework, machine learning notebooks, data 
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)]()
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=flat)]()
+[![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat)]()
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)]()
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)]()
 
@@ -74,15 +80,20 @@ My repositories include university coursework, machine learning notebooks, data 
 
 ---
 
-## Featured Repositories
+## Featured Projects
 
-| Repository | Description |
+| Project | What it shows |
 |---|---|
-| [MS_Data_Science_Arden_University](https://github.com/DATA-Meta/MS_Data_Science_Arden_University) | MSc coursework |
-| [Python_datascience_2026](https://github.com/DATA-Meta/Python_datascience_2026) | Personal learning and practice |
-| [Machine-learning](https://github.com/DATA-Meta/Machine-learning) | ML notebooks and experiments |
-| [Data_visualisation_Arden](https://github.com/DATA-Meta/Data_visualisation_Arden) | Data visualization module |
-| [Portfolio-projects](https://github.com/DATA-Meta/Portfolio-projects) | Real-world data science projects |
+| [Enterprise-Grade Agentic RAG App](https://github.com/DATA-Meta/enterprise-grade-rag-app) | FastAPI, Qdrant, LangGraph, guardrails, Langfuse tracing, DeepEval; deployed on Cloud Run |
+| [India Domestic Flight Price Prediction](https://github.com/DATA-Meta/ML-_arden_university) | 300K flights, hypothesis testing, Random Forest R² 0.978 |
+| [Netflix Customer Churn Prediction](https://github.com/DATA-Meta/churn-prediction) | Diagnosing a flawed model, then XGBoost with baselines, CV and threshold tuning |
+| [CNN MNIST Classification](https://github.com/DATA-Meta/CNN_MNIST_Classification) | Modular deep learning pipeline, ~99% test accuracy |
+| [PwC Power BI Job Simulation](https://github.com/DATA-Meta/PwC-Power-BI-Job-Simulation) | Telco churn and Diversity & Inclusion Power BI dashboards |
+| [KPMG Data Analytics Virtual Internship](https://github.com/DATA-Meta/KPMG-Data-Analytics-Virtual-Internship) | Data quality, RFM customer segmentation, Power BI dashboard |
+| [PySpark Cloud Pipeline](https://github.com/DATA-Meta/pyspark-cloud-pipeline) | Big data analytics and ML with PySpark |
+| [Retail Profitability Dashboard](https://github.com/DATA-Meta/Data_visualisation_ardenUniversity) | Interactive dashboard and 12+ visualisations |
+
+👉 See them all with screenshots on my **[portfolio](https://data-meta.github.io)**.
 
 ---
 
@@ -115,7 +126,9 @@ My repositories include university coursework, machine learning notebooks, data 
   <a href="https://discord.com/users/mo_7727" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/muhammad-usman-khan-data-analyst/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
 </div>
 
